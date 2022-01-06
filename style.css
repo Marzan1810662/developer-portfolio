@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+section{
+    margin-top: 100px;
+}
+h1{
+    font-size: 50px;
+}
+.pink-color{
+    color: pink;
+}
+.top-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width p{
+    margin: 25px 0px;
+}
+.half-width img{
+     width: 80%;
+}
+#top-heading-left-border{
+    border-left: 4px solid rebeccapurple;
+    border-radius: 2px;
+    padding-left: 10px ;
+}
+#top-heading-left-border h1{
+    margin: 0;
+}
+.button{
+    margin: 200px 0px;
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    background-image: linear-gradient(pink, purple);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
