@@ -4,6 +4,7 @@ body{
 }
 section{
     margin-top: 20px;
+    margin-bottom: 100px;
 }
 h1{
     font-size: 60px;
@@ -82,4 +83,16 @@ margin-top: 0;
 }
 #goals{
     background-color: rgb(235, 186, 247);
+}
+.develop-wl-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.develop-wl-section h2{
+    font-size: 40px;
+}
+#develop-wl-section-img{
+    padding-right: 0;
 }
